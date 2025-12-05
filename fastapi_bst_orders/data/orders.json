@@ -1,0 +1,16 @@
+[
+  {
+    "id": 100,
+    "customer_name": "Valery Actualizada",
+    "items": [
+      {
+        "product_id": 1,
+        "quantity": 3
+      },
+      {
+        "product_id": 2,
+        "quantity": 1
+      }
+    ]
+  }
+]
