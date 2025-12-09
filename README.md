@@ -112,3 +112,6 @@ uvicorn app.main:app --reload
 - El BST permite búsquedas muy eficientes, pero no está balanceado; si los IDs son muy desordenados, puede volverse profundo.
 - La lista enlazada funciona bien para agregar pedidos y recorrerlos, pero no es rápida para búsquedas masivas (toca recorrer nodo por nodo).
 - La modularización del proyecto (routers + storage + schemas) facilita el mantenimiento.
+
+### URL
+https://github.com/alevm569/Estructuras-Avanzadas-en-APIs
